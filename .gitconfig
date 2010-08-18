@@ -1,0 +1,15 @@
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	amend = commit --amend -C HEAD
+[user]
+	name = Ustun Ozgur
+	email = ustunozgur@gmail.com
