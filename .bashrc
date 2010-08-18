@@ -100,5 +100,5 @@ if [ -f /etc/bash_completion ]; then
     . /etc/bash_completion
 fi
 
-export PATH=/usr/realtime/bin:$PATH 
+export PATH= /var/lib/gems/1.8/bin:/usr/realtime/bin:$PATH 
 
