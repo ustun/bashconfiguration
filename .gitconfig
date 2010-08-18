@@ -12,4 +12,4 @@
 	amend = commit --amend -C HEAD
 [user]
 	name = Ustun Ozgur
-	email = ustunozgur@gmail.com
+	email = 
